@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GadiMeter</string>
+
+    <string name="fragment_title_live_meter">Live Meter</string>
+    <string name="fragment_title_km_to_fare">Calculate Fare</string>
+    <string name="fragment_title_estimate_fare_map">Estimate Fare</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
